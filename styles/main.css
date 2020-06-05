@@ -1,0 +1,22 @@
+:root {
+    --title-color: #322153;
+    --primary-color: rgb(52, 203, 121);
+    --transparent-color:#f0f0f5;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-family: Roboto, sans-serif;
+}
+body {
+    background: var(--transparent-color);
+}
+a {
+    text-decoration: none;
+}
+h1, h2, h3, h4 {
+    font-family: 'Ubuntu', sans-serif;
+    color: var( --title-color);
+}
