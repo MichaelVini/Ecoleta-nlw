@@ -8,7 +8,7 @@
 ## :bookmark: Sobre
 
 O **Bikcraft** é uma aplicação Web feita para venda de bicicletas personalizadas. A aplicação oferece a possibilidade de obter informações sobre a empresa, conhecer os produtos, analisar o portfólio e entrar em contato.
-Essa aplicação foi realizada durante o curso de Web Design da [Origamid](https://rocketseat.com.br/).
+Essa aplicação foi realizada durante o curso de Web Design da [Origamid](https://www.origamid.com/).
 
 
 ## :rocket: Tecnologias
